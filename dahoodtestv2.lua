@@ -1,4 +1,4 @@
--- anti v2 all rights reserved
+-- testing script
 
 
 
